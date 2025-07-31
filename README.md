@@ -29,4 +29,21 @@ It performs multiple types of scans including port scanning, SQL injection testi
 ## Installation
 
 1. Clone the repository:  
+```bash
+git clone https://github.com/DoOmSlAeYr/D-GuardProject.git
+```
+step 2 :
+```bash
+cd D-GuardProject
+```
+step 3 :
+```bash
+pip3 install -r requirements.txt
+```
+step 4 : 
+```bash
+python3 D-Guard.py
+```
+## Congratulations!
 
+author : DoomSlayer
